@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DorkyJuice
+- 👋 Hi, I’m Jess
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Java and HTML
 - 💞️ I’m looking to collaborate on anything to gain more knowledge
