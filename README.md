@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jess
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Java and HTML
+- 🌱 I’m currently learning SQL and Android Developement 
 - 💞️ I’m looking to collaborate on anything to gain more knowledge
 - 📫 How to reach me on discord at DorkyJuice#9022
 
