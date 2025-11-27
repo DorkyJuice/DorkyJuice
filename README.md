@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jess
 - 👀 I am a new Computer Science graduate from Thompson Rivers University 
 - 🌱 I’m currently learning SQL and Android Development 
-- 💞️ I’m looking to collaborate on anything to gain more knowledge
+- 💞️ My focus is on machine learning and IT Technical Support 
 - 📫 How to reach me on LinkedIn www.linkedin.com/in/jessika-broder 
 
 <!---
