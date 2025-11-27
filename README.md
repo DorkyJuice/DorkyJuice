@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jess
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning SQL and Android Developement 
+- 👀 I am a new Computer Science graduate from Thompson Rivers University 
+- 🌱 I’m currently learning SQL and Android Development 
 - 💞️ I’m looking to collaborate on anything to gain more knowledge
-- 📫 How to reach me on discord at DorkyJuice#9022
+- 📫 How to reach me on LinkedIn www.linkedin.com/in/jessika-broder 
 
 <!---
 DorkyJuice/DorkyJuice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
